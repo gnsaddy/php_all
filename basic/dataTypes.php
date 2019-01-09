@@ -7,7 +7,7 @@ $var_int = 10;   # integer datatype
 $var_str = "Aditya"; # string datatype
 $var_float = 10.12;  # float datatype
 $var_undefined;  # undefined datatype
-$var_boolean = true;
+$var_boolean = true;  # boolean variable
 
 
 echo $var_int, "\n";

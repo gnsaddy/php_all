@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello world \n";
+echo "Hello world \n", "<br>";
 # variables in php
 # variable decleration
 $var_int = 10;   # integer datatype
@@ -10,11 +10,11 @@ $var_undefined;  # undefined datatype
 $var_boolean = true;  # boolean variable
 
 
-echo $var_int, "\n";
-echo $var_str, "\n";
-echo $var_float, "\n";
-echo $var_undefined, "\n";
-echo $var_boolean, "\n";
+echo $var_int, "<br>";
+echo $var_str, "<br>";
+echo $var_float, "<br>";
+echo $var_undefined, "<br>";
+echo $var_boolean, "<br>";
 
 ?>
 

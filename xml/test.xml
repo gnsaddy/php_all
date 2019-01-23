@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./style.css"?>
+
+<college>
+<student-info>
+    <student1>
+        <name> Aditya </name>
+        <usn> 1RD18MCA01 </usn>
+        <course> MCA </course>
+        <year> 2018 </year>
+        <email> aditya@gmail.com </email>
+</student1>
+
+<student2>
+    <name> Aditya </name>
+    <usn> 1RD18MCA01 </usn>
+    <course> MCA </course>
+    <year> 2018 </year>
+    <email> aditya@gmail.com </email>
+</student2>
+
+
+</student-info>
+
+</college>

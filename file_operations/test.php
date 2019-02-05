@@ -24,7 +24,7 @@ switch($ch){
 
     case 4:
         $file = "test.txt";
-        $f = fopen($file,'w') or die("can not open the file ");
+        $f = fopen($file,'r') or die("can not open the file ");
         fclose($f);
         echo "FIle closed ";
         break;
